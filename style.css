@@ -1,0 +1,36 @@
+
+body {
+    background-color :#FFFF
+    font-style arial
+    color #666666
+}
+
+header {
+    background-color :#003058;
+    color :#FFFFFF;
+    font :georgia;
+}
+h1 p {
+    line-height:140%;
+}
+nav{
+    font-weight:200;
+    background-color:#F3f3f3
+}
+h2 {
+    color:#424242;
+    font:Georgia;
+}
+dt {
+    color:#003058;
+}
+.ut {
+    color:#BA1C21;
+}
+footer{
+    font-size:.70rem;
+    font:italic;
+}
+#wrapper{
+    font-size:80%;
+}
